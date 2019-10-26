@@ -1,19 +1,19 @@
 # Portfolio App:  
 
-## This Portfolio app created using Flutter and Flare with loads of animation.   
+### This Portfolio app created using Flutter and Flare with loads of animation.   
 
 ##Screenshots:
 
 <p>
-    <img src=""/>
+    <img src="https://raw.githubusercontent.com/anirudhsharma392/portfolio_flutter/master/screenshots/pic1.gif"/>
 
 </p>
 <p>
-    <img src=""/>
+    <img src="https://raw.githubusercontent.com/anirudhsharma392/portfolio_flutter/master/screenshots/pic2.gif"/>
 
 </p>
 <p>
-    <img src=""/>
+    <img src="https://raw.githubusercontent.com/anirudhsharma392/portfolio_flutter/master/screenshots/pic3.gif"/>
 
 </p>
 # Learning
